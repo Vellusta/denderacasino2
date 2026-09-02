@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://denderacasino-bonus.com/sitemap.xml

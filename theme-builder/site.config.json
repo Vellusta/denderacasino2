@@ -1,0 +1,479 @@
+{
+  "domain": "denderacasino2.com",
+  "canonical": "https://denderacasino2.com/",
+  "dropGlue": {
+    "domain": "https://denderacasino-bonus.com/"
+  },
+  "siteName": "Dendera Casino",
+  "googleVerification": "",
+  "locales": [
+    "de-DE",
+    "de",
+    "en"
+  ],
+  "defaultLocale": "de",
+  "rootCanonicalLocale": "de",
+  "rootCanonicalPath": "/de/",
+  "langFlags": {
+    "en": "en.png",
+    "de": "de.png"
+  },
+  "header": {
+    "logo": {
+      "href": {
+        "de": "/",
+        "en": "/en/"
+      },
+      "src": "logo.png"
+    },
+    "cta": {
+      "signup": {
+        "label": {
+          "de": "Registrieren",
+          "en": "Sign up"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      },
+      "signin": {
+        "label": {
+          "de": "Anmelden",
+          "en": "Log in"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      },
+      "mobile": {
+        "label": {
+          "de": "Bonus Sichern",
+          "en": "Claim bonus"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      }
+    },
+    "mobileBanner": {
+      "src": "mobile_banner.webp"
+    },
+    "hero": {
+      "bg": {
+        "src": "banner.webp"
+      },
+      "line1": {
+        "de": "Willkommen bei Dendera Casino",
+        "en": "Welcome to Dendera Casino"
+      },
+      "line2": {
+        "de": "350% bis zu €1.800 + 250 Freispiele",
+        "en": "350% up to €1,800 + 250 free spins"
+      },
+      "line3": {
+        "de": "Lizenziertes Online Casino in Curaçao #8048/JAZ",
+        "en": "Licensed online casino in Curaçao #8048/JAZ"
+      },
+      "cta": {
+        "label": {
+          "de": "Bonus Jetzt Sichern",
+          "en": "Claim your bonus"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      }
+    },
+    "blocks": [
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "pokies.png",
+        "title": {
+          "de": "Über 600 Spiele",
+          "en": "Over 600 games"
+        },
+        "text": {
+          "de": "Slots von Betsoft, Rival, Dragon Gaming & Spinomenal",
+          "en": "Slots from Betsoft, Rival, Dragon Gaming & Spinomenal"
+        }
+      },
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "live-casino.png",
+        "title": {
+          "de": "Live Casino 24/7",
+          "en": "Live casino 24/7"
+        },
+        "text": {
+          "de": "Vivo Gaming Live-Dealer mit HD-Streaming",
+          "en": "Vivo Gaming live dealers with HD streaming"
+        }
+      },
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "treasure.png",
+        "title": {
+          "de": "350% + Cashback",
+          "en": "350% + cashback"
+        },
+        "text": {
+          "de": "Massives Willkommenspaket + 25% wöchentliches Cashback",
+          "en": "Massive welcome package + 25% weekly cashback"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "title": {
+      "de": "Dendera Casino | 350% Bonus + 250 Freispiele | Curacao",
+      "en": "Dendera Casino | 350% Bonus + 250 Free Spins | Curacao"
+    },
+    "description": {
+      "de": "Dendera Casino: 350% Willkommensbonus + 250 Freispiele. 600+ Slots von Betsoft, Rival, Dragon Gaming. Vivo Live Casino, Krypto-Zahlungen, schnelle Auszahlungen.",
+      "en": "Dendera Casino: 350% welcome bonus + 250 free spins. 600+ slots from Betsoft, Rival, Dragon Gaming. Vivo live casino, crypto payments and fast withdrawals."
+    },
+    "keywords": {
+      "de": "dendera casino, online casino, 350% bonus, freispiele, krypto casino, betsoft, rival gaming, live casino, cashback bonus",
+      "en": "dendera casino, online casino, 350% bonus, free spins, crypto casino, betsoft, rival gaming, live casino, cashback bonus"
+    }
+  },
+  "seoDefaults": {
+    "title": "Dendera Casino – 350% + 250 FS | Krypto & Schnelle Auszahlung",
+    "description": "Dendera Casino mit 350% Willkommensbonus + 250 Freispiele. 600+ Slots von Betsoft, Rival, Dragon Gaming. Vivo Gaming Live-Dealer, 25% Cashback, Krypto-Support, 24h-Auszahlungen. Curacao #8048/JAZ.",
+    "keywords": "Dendera Casino, Online Casino, Casino Bonus, 350% Willkommensbonus, Freispiele, Live Casino, Krypto Casino, schnelle Auszahlung, Betsoft, Rival Gaming, Dragon Gaming, Vivo Gaming, Cashback, VIP Programm",
+    "ogImage": "https://denderacasino2.com/assets/images/dendera-og.jpg",
+    "themeColor": "#0a1e2e",
+    "extraHead": ""
+  },
+  "palette": {
+    "header": {
+      "bg": "#0a1e2e"
+    },
+    "tertiary": {
+      "default": "#1dd3e0",
+      "hover": "#00d4ff"
+    },
+    "secondary": {
+      "default": "#152b3d",
+      "hover": "#1f3a52"
+    },
+    "primary": {
+      "default": "#1dd3e0",
+      "hover": "#00d4ff"
+    },
+    "block": {
+      "bg": "#152b3d",
+      "descriptionFirstText": "#1dd3e0",
+      "descriptionLastText": "#ffffff"
+    },
+    "menu": {
+      "hoverText": "#1dd3e0",
+      "activeBg": "#152b3d"
+    },
+    "table": {
+      "headerBg": "#152b3d",
+      "headerText": "#ffffff",
+      "zebraBg": "#0f2536",
+      "zebraText": "#ffffff",
+      "borderColor": "#1dd3e0"
+    },
+    "offer": {
+      "logoBg": "#152b3d",
+      "ratingBg": "#1dd3e0",
+      "ratingText": "#0a1e2e",
+      "accentColor": "#1dd3e0"
+    },
+    "faq": {
+      "itemBg": "#152b3d",
+      "itemText": "#c7e6ea",
+      "titleBg": "#0f2536",
+      "titleText": "#ffffff",
+      "contentBg": "#0a1e2e",
+      "contentText": "#e0f4f7",
+      "contentBorder": "#152b3d",
+      "iconColor": "#1dd3e0"
+    },
+    "list": {
+      "bullet": "#1dd3e0",
+      "hoverBullet": "#00d4ff"
+    },
+    "footer": {
+      "bg": "#0a1e2e",
+      "linkText": "#c7e6ea",
+      "linkHover": "#1dd3e0",
+      "borderTop": "#152b3d"
+    },
+    "button": {
+      "primaryBg": "#1dd3e0",
+      "primaryHover": "#00d4ff",
+      "primaryText": "#0a1e2e",
+      "secondaryBg": "#152b3d",
+      "secondaryHover": "#1f3a52",
+      "secondaryText": "#ffffff"
+    },
+    "text": {
+      "primary": "#ffffff",
+      "secondary": "#c7e6ea",
+      "light": "#8bb4bd",
+      "inverse": "#0a1e2e"
+    },
+    "background": {
+      "main": "#0a1e2e",
+      "secondary": "#152b3d",
+      "dark": "#051219"
+    },
+    "accent": {
+      "cyan": "#1dd3e0",
+      "lightCyan": "#00d4ff",
+      "darkCyan": "#17a8b3",
+      "deepBlue": "#152b3d",
+      "lightDeepBlue": "#1f3a52",
+      "darkDeepBlue": "#0f2536",
+      "gold": "#d4af37",
+      "teal": "#20b2aa"
+    }
+  },
+  "sitemap": {
+    "defaultPriority": "0.8"
+  },
+  "partials": {
+    "header": "templates/partials/header.html",
+    "footer": "templates/partials/footer.html"
+  },
+  "assets": {
+    "global": "templates/assets",
+    "css": "assets/css/style.css",
+    "mode": "root",
+    "publicBase": "/"
+  },
+  "scripts": {
+    "body": [
+      "assets/js/app.js"
+    ]
+  },
+  "navigation": [
+    {
+      "label": {
+        "de": "Startseite",
+        "en": "Home"
+      },
+      "toKey": "home"
+    },
+    {
+      "label": {
+        "de": "Bonusse",
+        "en": "Bonuses"
+      },
+      "toKey": "bonuses"
+    },
+    {
+      "label": {
+        "de": "Registrierung / Login",
+        "en": "Registration / Login"
+      },
+      "toKey": "auth"
+    },
+    {
+      "label": {
+        "de": "Über Uns",
+        "en": "About"
+      },
+      "toKey": "about"
+    },
+    {
+      "label": {
+        "de": "Kontakt",
+        "en": "Contact"
+      },
+      "toKey": "contacts"
+    }
+  ],
+  "footer": {
+    "sections": [
+      {
+        "title": {
+          "de": "Schnellzugriff",
+          "en": "Quick links"
+        },
+        "items": [
+          {
+            "toKey": "home"
+          },
+          {
+            "toKey": "bonuses"
+          },
+          {
+            "toKey": "auth"
+          },
+          {
+            "toKey": "about"
+          },
+          {
+            "toKey": "contacts"
+          }
+        ]
+      },
+      {
+        "title": {
+          "de": "Rechtliche Informationen",
+          "en": "Legal information"
+        },
+        "items": [
+          {
+            "toKey": "responsible-gambling"
+          },
+          {
+            "toKey": "privacy"
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "key": "home",
+      "priority": "1.0",
+      "i18n": {
+        "de": {
+          "path": "/",
+          "contentPath": "theme/pages/home.de.html",
+          "title": "Dendera Casino Deutschland - 350% Bonus + 250 Freispiele",
+          "description": "Dendera Casino: Sichern Sie 350% Bonus + 250 FS. 600+ Slots von Betsoft, Rival, Dragon Gaming. Live Casino, Krypto-Zahlungen, 24h-Auszahlung. Curacao #8048/JAZ."
+        },
+        "de-DE": {
+          "path": "/de/",
+          "contentPath": "theme/pages/home.de.html",
+          "title": "Dendera Casino Deutschland - 350% Bonus + 250 Freispiele",
+          "description": "Dendera Casino: Sichern Sie 350% Bonus + 250 FS. 600+ Slots von Betsoft, Rival, Dragon Gaming. Live Casino, Krypto-Zahlungen, 24h-Auszahlung. Curacao #8048/JAZ."
+        },
+        "en": {
+          "path": "/en/",
+          "contentPath": "theme/pages/home.en.html",
+          "title": "Dendera Casino – 350% Bonus + 250 Free Spins",
+          "description": "Dendera Casino: 350% welcome bonus + 250 free spins. 600+ slots, live casino, crypto payments and fast withdrawals under Curacao licence #8048/JAZ."
+        }
+      }
+    },
+    {
+      "key": "bonuses",
+      "priority": "0.9",
+      "i18n": {
+        "de": {
+          "path": "/bonuses/",
+          "contentPath": "theme/pages/bonuses.de.html",
+          "title": "Dendera Casino Bonusse - 350% + 250 FS | Wöchentlich 25%",
+          "description": "Alle Dendera Bonusse: 350% Willkommenspaket + 250 Freispiele, wöchentliche Reload-Angebote, 25% Cashback, VIP-Belohnungen und Turniere. Faire Umsatzbedingungen."
+        },
+        "en": {
+          "path": "/en/bonuses/",
+          "contentPath": "theme/pages/bonuses.en.html",
+          "title": "Dendera Casino bonuses – 350% + 250 FS | Weekly 25% cashback",
+          "description": "All Dendera bonuses: 350% welcome package + 250 free spins, weekly reloads, 25% cashback, VIP rewards and tournaments with fair wagering."
+        }
+      }
+    },
+    {
+      "key": "auth",
+      "priority": "0.8",
+      "i18n": {
+        "de": {
+          "path": "/register-login/",
+          "contentPath": "theme/pages/auth.de.html",
+          "title": "Dendera Casino Login & Registrierung - Sicherer Zugang",
+          "description": "Registrieren Sie sich bei Dendera in 2 Minuten. Schnelle KYC-Verifizierung, SSL-Login, 2FA-Support, sofortiger Zugang zu 350% Bonus + 250 Freispiele."
+        },
+        "en": {
+          "path": "/en/register-login/",
+          "contentPath": "theme/pages/auth.en.html",
+          "title": "Dendera Casino registration & login – secure access",
+          "description": "Sign up at Dendera in minutes. Fast KYC verification, SSL login, 2FA support and instant access to a 350% bonus + 250 free spins."
+        }
+      }
+    },
+    {
+      "key": "about",
+      "priority": "0.7",
+      "i18n": {
+        "de": {
+          "path": "/about/",
+          "contentPath": "theme/pages/about.de.html",
+          "title": "Über Dendera Casino - Lizenzierte Plattform | Curacao",
+          "description": "Über Dendera: Curacao-lizenziertes Casino (#8048/JAZ) mit 600+ Slots, Vivo Live-Dealern, Krypto-Support, VIP-Programm und 24h-Auszahlungen für deutsche Spieler."
+        },
+        "en": {
+          "path": "/en/about/",
+          "contentPath": "theme/pages/about.en.html",
+          "title": "About Dendera Casino – licensed Curacao platform",
+          "description": "About Dendera: Curacao-licensed casino (#8048/JAZ) with 600+ slots, live dealers, crypto support, VIP programme and fast withdrawals for European players."
+        }
+      }
+    },
+    {
+      "key": "contacts",
+      "priority": "0.6",
+      "i18n": {
+        "de": {
+          "path": "/contact/",
+          "contentPath": "theme/pages/contacts.de.html",
+          "title": "Dendera Casino Kontakt - 24/7 Live-Chat & E-Mail",
+          "description": "Dendera Support 24/7: Live-Chat oder E-Mail. Sofortige Hilfe bei Einzahlungen, Auszahlungen, Boni, KYC-Verifizierung. Durchschnittliche Antwort unter 5 Minuten."
+        },
+        "en": {
+          "path": "/en/contact/",
+          "contentPath": "theme/pages/contacts.en.html",
+          "title": "Dendera Casino contact – 24/7 live chat & email",
+          "description": "Dendera 24/7 support via live chat and email. Instant help with deposits, withdrawals, bonuses and KYC verification."
+        }
+      }
+    },
+    {
+      "key": "responsible-gambling",
+      "priority": "0.5",
+      "i18n": {
+        "de": {
+          "path": "/responsible-gambling/",
+          "contentPath": "theme/pages/responsible-gambling.de.html",
+          "title": "Verantwortungsvolles Spielen bei Dendera | Tools & Hilfe",
+          "description": "Dendera verantwortungsvolle Gaming-Tools: Einzahlungslimits, Verlustlimits, Sitzungs-Timer, Selbstausschluss. Links zu BZgA, Spielsucht-Hotline und Beratung."
+        },
+        "en": {
+          "path": "/en/responsible-gambling/",
+          "contentPath": "theme/pages/responsible-gambling.en.html",
+          "title": "Responsible gambling at Dendera | Tools & help",
+          "description": "Dendera responsible gambling tools: deposit and loss limits, session timers, self-exclusion and links to professional support organisations."
+        }
+      }
+    },
+    {
+      "key": "privacy",
+      "priority": "0.5",
+      "i18n": {
+        "de": {
+          "path": "/privacy/",
+          "contentPath": "theme/pages/privacy.de.html",
+          "title": "Datenschutz - Sicherheit & Verschlüsselung | Dendera",
+          "description": "Dendera Datenschutzrichtlinie: Datensammlung, SSL-Verschlüsselung, GDPR-Compliance. Ihre Rechte auf Zugriff, Löschung und Korrektur persönlicher Daten."
+        },
+        "en": {
+          "path": "/en/privacy/",
+          "contentPath": "theme/pages/privacy.en.html",
+          "title": "Privacy – data security & encryption | Dendera",
+          "description": "Dendera privacy policy: data collection, SSL encryption, data protection rights and how your personal information is handled."
+        }
+      }
+    }
+  ]
+}
